@@ -1,0 +1,5 @@
+package Weather
+
+func CalculateCloud() {
+
+}
